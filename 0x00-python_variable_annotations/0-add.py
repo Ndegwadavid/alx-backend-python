@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Modules of task-0.
+'''Task 0's module.
 '''
 
 
